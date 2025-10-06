@@ -1,6 +1,6 @@
 
 # EDA on Car Value Degradation
-This is an comprehensive EDA analysis on the value degredation between the top 10 most popular car brands. It was made for a final project assignment in my DS 2500 class at the University of Utah. See this [Project Proposal] for a complete description of how this analysis was done or reference the jupyter notebook linked below.
+This is a comprehensive EDA on the value degradation between the top 10 most popular car brands. It was made for a final project assignment in my DS 2500 class at the University of Utah. See this [Project Proposal] for a complete description of how this analysis was done or reference the Jupyter notebook linked below.
 
 Notebook:
 
